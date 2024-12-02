@@ -1,0 +1,16 @@
+
+.padronizar-imagem {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.centralizar_button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.navbar-brand {
+    font-size: 200px; /* Ajuste o valor conforme necessário */
+}
