@@ -77,7 +77,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
                 <?php endif; ?>
     </div>
     <div class="form-group">
-        <input class="btn btn-primary" min="1" type="submit" value="Editar">
+        <input class="btn btn-primary" min="1" type="submit" value="Salvar as alterações">
     </div>
         
     </form>

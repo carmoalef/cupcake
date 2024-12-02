@@ -102,7 +102,7 @@ $total = 0;
 </form>
 </div>
 <a href="index.php" class="btn btn-link">
-  <i class="bi bi-arrow-left"></i> Voltar ao Carrinho
+  <i class="bi bi-arrow-left"></i> Voltar à Vitrine
 </a>
 </body>
 </html>

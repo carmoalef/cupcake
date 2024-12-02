@@ -38,6 +38,7 @@
                   <div class="d-flex justify-content-center">
                     <input type="number" class="form-control text-center" name="qtd" id="qtd" value="1" min="1" required>
                   </div>
+                  <br>
                   <div class="d-flex justify-content-center">
                     <button type="submit" class="btn btn-primary">Adicionar ao Carrinho</button>
                   </div>

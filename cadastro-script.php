@@ -26,7 +26,7 @@
                 $pdo->exec($insertDados);
             }
             
-            header('Location: carrinho.php');
+            header('Location: index.php');
             ?>
 
 
