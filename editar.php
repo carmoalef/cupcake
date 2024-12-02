@@ -56,9 +56,9 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     <br>
     <br>
     <div class="row"></div>
-    <h1>Cadastro de Cupcakes</h1>
+    <h1>Editar Cupcakes</h1>
     <form action="" method="POST" enctype="multipart/form-data">
-    <input type="text" class="form-control" name="id" value="<?php echo $produto['id']?>">
+    <input type="hidden" class="form-control" name="id" value="<?php echo $produto['id']?>">
     <div class="col-8 mb-3">
         <label for="exampleFormControlInput1" class="form-label">Nome do Cupcake:</label>
         <input type="text" class="form-control" name="nome" value="<?php echo $produto['nome']?>">
