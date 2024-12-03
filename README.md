@@ -9,7 +9,7 @@ Editor: Visual Studio Code 1.95.3
 O projeto foi rodado localhost com o seguinte comando:  php -S localhost:8000
 
 
-Como rodar o projeto 
+##Como rodar o projeto 
 
 Deve estar no cmd do editor Visual Studio Code
 Deve ter o git bash instalado
