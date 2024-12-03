@@ -15,6 +15,7 @@ O projeto foi rodado localhost com o seguinte comando:  php -S localhost:8000
 ## Como rodar o projeto 
 
 Deve estar no cmd do editor Visual Studio Code
+
 Deve ter o git bash instalado
 
 Clone do repositório: git clone https://github.com/carmoalef/cupcake.git
